@@ -1,0 +1,6 @@
+numpy
+nltk
+sympy
+math-verify
+pandas 
+wandb
