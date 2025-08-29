@@ -13,7 +13,7 @@ This repository contains the code for *Model–Task Alignment Drives Distinct RL
 - [👀Get Started](#Get-Started)
   - [🔧Setup](#Setup)
   - [📚Data Processing](#Data-Processing)
-  - [📉Reproducing](#Training)
+  - [📉Reproducing](#Reproducing)
 - [🚩Citation](#Citation)
 - [🌻Acknowledgement](#Acknowledgement)
 
