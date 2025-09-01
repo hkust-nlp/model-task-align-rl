@@ -2,7 +2,7 @@
     <h1>Model–Task Alignment Drives Distinct RL Outcomes</h1>
 
 
-[![arxiv](https://img.shields.io/badge/Arxiv-todo-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.21188) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![](https://img.shields.io/github/last-commit/hkust-nlp/model-task-align-rl?color=blue)
+[![arxiv](https://img.shields.io/badge/Arxiv-2508.21188-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.21188) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![](https://img.shields.io/github/last-commit/hkust-nlp/model-task-align-rl?color=blue)
 </div>
 
 This repository contains the code for *Model–Task Alignment Drives Distinct RL Outcomes*. 
