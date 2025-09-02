@@ -5,7 +5,6 @@
 [![arxiv](https://img.shields.io/badge/Arxiv-2508.21188-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.21188) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![](https://img.shields.io/github/last-commit/hkust-nlp/model-task-align-rl?color=blue)
 </div>
 
-This repository contains the code for *Model–Task Alignment Drives Distinct RL Outcomes*. 
 
 ## Table of contents
 
@@ -87,14 +86,7 @@ You can examine the specific script files to obtain more details. To run these s
 If you find this repository helpful, feel free to cite our paper:
 
 ```bibtex
-@misc{wu2025modeltaskalignmentdrivesdistinct,
-      title={Model-Task Alignment Drives Distinct RL Outcomes}, 
-      author={Haoze Wu and Cheng Wang and Wenshuo Zhao and Junxian He},
-      year={2025},
-      eprint={2508.21188},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2508.21188}, 
+@misc{
 }
 ```
 
