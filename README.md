@@ -86,7 +86,14 @@ You can examine the specific script files to obtain more details. To run these s
 If you find this repository helpful, feel free to cite our paper:
 
 ```bibtex
-@misc{
+@misc{wu2025miragemethodmodeltaskalignment,
+      title={Mirage or Method? How Model-Task Alignment Induces Divergent RL Conclusions}, 
+      author={Haoze Wu and Cheng Wang and Wenshuo Zhao and Junxian He},
+      year={2025},
+      eprint={2508.21188},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2508.21188}, 
 }
 ```
 
